@@ -38,12 +38,12 @@ def add(num1, num2):
     return num1 + num2
  ```
 
-|Name--------------| EMAIL--------------- |
+|Name              | EMAIL                |
 !------------------|----------------------|
 |Trevor Makausi    |tmakusi@hit.ac.zw     |
 |Tendai Marengereke|tmarengereke@hit.co.zw|
 |Edson M Chakona   |echakona@zetdc.co.zw  |
 
-* [ ] Do a design of mobil app
-* [ ] Connect to web
+* [X] Do a design of mobil app
+* [X] Connect to web
 * [ ] test the program
